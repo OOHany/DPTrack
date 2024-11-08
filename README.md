@@ -23,7 +23,7 @@ Multi-object tracking (MOT) is a critical research area in computer vision, part
 ### Pipeline
 
 <center>
-<img src="a_images/3.1.jpg" width="800"/>
+<img src="images/3.1.jpg" width="800"/>
 </center>
 
 ## News
