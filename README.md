@@ -1,9 +1,6 @@
 # DPTrack
-<<<<<<< HEAD
-[Been submitted to Visual Computer]DPTrack: A Density Perception-based Multi-Object Tracking Algorithm for Dense and Occluded Scenarios
-=======
 
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![test](https://img.shields.io/static/v1?label=By&message=Pytorch&color=red) [![DOI](https://zenodo.org/badge/882984850.svg)](https://doi.org/10.5281/zenodo.14038287)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![test](https://img.shields.io/static/v1?label=By&message=Pytorch&color=red) [![DOI](https://zenodo.org/badge/882984850.svg)](https://doi.org/10.5281/zenodo.14038287)
 
 #### DPTrack is a simply and strong multi-object tracker. 
 
