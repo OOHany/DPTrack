@@ -245,13 +245,6 @@ Refer to [FastReID](https://github.com/JDAI-CV/fast-reid)  repository for additi
 
 ## Tracking
 
-**Notes**:
-
-
-* Please note that the current code has not yet been systematically organized, and the training and testing sections are still being refined. The core code can be found in the **DPTrack/trackers/dp_tracker** directory. We are working hard to optimize the code structure to improve usability and accessibility. 
-
-Thank you for your understanding and support. If you have any questions or suggestions, please feel free to reach out.
-
 
 ### DanceTrack
 
@@ -294,6 +287,14 @@ python3 tools/run_dptrack_dance.py -f exps/example/mot/yolox_x_ablation_dp_track
 python3 tools/run_dptrack_dance.py -f exps/example/mot/yolox_x_mix_det_dp_track_reid.py -b 1 -d 1 --fuse --expn $exp_name
 ```
 
+
+**Notes**:
+
+
+* Please note that the current code is still being refined. The core code can be found in the **DPTrack/trackers/dp_tracker** directory. We are working hard to optimize the code structure to improve usability and accessibility. 
+
+Thank you for your understanding and support. If you have any questions or suggestions, please feel free to reach out.
+
 ### Demo
 
 DPTrack, with the parameter settings of the dancetrack-val dataset
@@ -310,4 +311,4 @@ python3 tools/demo_track.py --demo_type image -f exps/example/mot/yolox_dancetra
 
 A large part of the code is borrowed from [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX), [OC-SORT](https://github.com/noahcao/OC_SORT), [ByteTrack](https://github.com/ifzhang/ByteTrack), [BoT-SORT](https://github.com/NirAharon/BOT-SORT), [FastReID](https://github.com/JDAI-CV/fast-reid). Many thanks for their wonderful works.
 
->>>>>>> 2379132 (First commit)
+
